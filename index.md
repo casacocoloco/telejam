@@ -126,6 +126,9 @@ Telejam is designed to support all kinds of musical activity over long distances
 * Online choir singing for a religious service
 * Tracking sessions
 
-Test for a [sound file](/quack.mp3)
+
+## Sample recordings
+
+Here is a session recorded between LA, Baltimore (two homes) and San Francisco. [corcovado](/corc2.mp3)
 
 
