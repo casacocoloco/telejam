@@ -14,7 +14,7 @@ When you phone a friend (SF to Paris) your friend hears you say: “how are you?
 
 In ordinary conversation, this is not a problem. But when trying to play music together it can be difficult, especially as the distance between players increases and there are more than two players in a remotely distributed ensemble. Here’s a group of three players, all connected to each other over the internet:
 
-![three-way graph]()
+![three-way graph](/threewaygraph.png)
 
                                   
 The time it takes for sound to travel between players A and B and the time between A and C is probably not the same, especially if the distance between A and C is much greater than the distance between A and B. Likewise, the time between players C and B depends on the distance between them and can be different. If everyone is playing simultaneously the synchronization between them is probably loose, not exact.
@@ -32,7 +32,7 @@ _Life can only be understood backwards; but it must be lived forwards.  Søren K
 
 There is an alternative that preserves synchronization. Rather than transmit every player’s audio to every other player, the musicians can be arranged in a daisy chain, from left to right:
 
-![daisy chain]()
+![daisy chain](/daisychain.png)
 
   
 
@@ -74,7 +74,7 @@ Telejam uses a daisy chain to connect musicians around the world without regard 
 
 Here is the web interface seen by the second player in a three person chain:
 
-![Telejam UI]()
+![Telejam UI](/telejamui.png)
 
   
 
@@ -125,5 +125,7 @@ Telejam is designed to support all kinds of musical activity over long distances
 * Master class
 * Online choir singing for a religious service
 * Tracking sessions
+
+Test for a [sound file](/quack.mp3)
 
 
