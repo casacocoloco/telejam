@@ -129,6 +129,7 @@ Telejam is designed to support all kinds of musical activity over long distances
 
 ## Sample recordings
 
-Here is a session recorded between LA, Baltimore (two homes) and San Francisco. [corcovado](/corc2.mp3)
+* Here is a session recorded between LA, Baltimore (two homes), and San Francisco. [Corcovado](/corc2.mp3)
+* We jammed on a tune composed by Bobby Sturm's Tradformer ML project. Check out [Ping the Kvetch](https://tunesfromtheaifrontiers.wordpress.com/2022/03/31/week-73-ping-the-kvetch-tradformer-sturm/) players in Sweden, Holland, and San Francisco.
 
 
