@@ -102,7 +102,7 @@ A designated player is the session leader. The leader can sit anywhere on the ch
 
 The leader can also listen to the final mix while everyone is playing and change the local input levels of each player in real time to control the balance.
 
-Although Telejam is an audio-only application, it can run alongside a video streaming or conferencing app to provide a simultaneous video feed, which of course will not be in sync with the audio. Players should not listen to the video app, but they can see and be seen by each other and by a wider audience watching the video app. The Telegram output can be patched into the video app to send the synchronized audio to the audience.
+Although Telejam is an audio-only application, it can run alongside a video streaming or conferencing app to provide a simultaneous video feed, which of course will not be in sync with the audio. Players should not listen to the video app, but they can see and be seen by each other and by a wider audience watching the video app. The Telejam output can be patched into the video app to send the synchronized audio to the audience.
 
 
 ## Varieties of musical experience
