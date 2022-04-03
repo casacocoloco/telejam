@@ -113,8 +113,6 @@ Musicians are familiar with solitary solo performance. They practice alone, play
 
 Telejam is unusual because it occupies a space between a live in-person collaboration and a disembodied overdubbing session. It offers the ability to collaborate live, in the moment, with others.
 
-Everyone playing knows they are “in it together” and they are reacting in real time to each other. The spontaneity feels like a live session.
-
 Telejam is designed to support all kinds of musical activity over long distances, whether it’s only among a group of players themselves, between a teacher and one or more students, and with or without an audience. Here are some use cases:
 
 
