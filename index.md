@@ -127,7 +127,7 @@ Telejam is designed to support all kinds of musical activity over long distances
 
 ## Sample recordings
 
-* Here is a session recorded between LA, Baltimore (two homes), and San Francisco (percussion). [Corcovado](/corc2.mp3)
+* Here is a session between LA (flute), Baltimore (bass and voice - two homes), and San Francisco (percussion). [Corcovado](/corc2.mp3)
 * How about Hawaii (uke/voices), Brooklyn (bass), Oahu (keys), and San Francisco (melodica)? [LoversNotion](/LoversNotion.mp3)
 * We jammed on a tune composed by Bobby Sturm's Tradformer ML project. Check out [Ping the Kvetch](https://tunesfromtheaifrontiers.wordpress.com/2022/03/31/week-73-ping-the-kvetch-tradformer-sturm/) with players in Sweden, Holland, and San Francisco.
 
