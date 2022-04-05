@@ -90,9 +90,7 @@ Telejam runs audio along the chain in two modes:
 The two blue faders with meters control the player’s input level and level of the incoming mix from the players to the left. The mix meter shows the level of the player’s output mix, the sum of the input and the incoming mix which is sent on to the next player.
 
 
-The chat window contains an ordinary textual chat thread. Players can use chat to exchange information that won’t disturb the audio stream. 
-The leader
-A designated player is the session leader. The leader can sit anywhere on the chain and may or may not play along. The leader performs these functions:
+The chat window contains an ordinary textual chat thread. Players can use chat to exchange information that won’t disturb the audio stream. A designated player is the session leader. The leader can sit anywhere on the chain and may or may not play along. The leader performs these functions:
 
 
 * Arranges the order of players
