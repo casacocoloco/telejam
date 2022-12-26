@@ -131,5 +131,6 @@ Telejam was created by Mark Goldstein, Michael McNabb, and Boris Smus. Listen to
 * Here is a session between LA (flute), Baltimore (bass and voice - two homes), and San Francisco (percussion). [Corcovado](/corc2.mp3)
 * How about Hawaii (uke/voices), Brooklyn (bass), Oahu (keys), and San Francisco (melodica)? [LoversNotion](/LoversNotion.mp3)
 * We jammed on a tune composed by Bobby Sturm's Tradformer ML project. Check out [Ping the Kvetch](https://tunesfromtheaifrontiers.wordpress.com/2022/03/31/week-73-ping-the-kvetch-tradformer-sturm/) with players in Sweden, Holland, and San Francisco.
+* Five movements (1,2,3,5, and 6) from [Divertimento for Flute, Oboe and Clarinet by Malcolm Arnold](/Arnold-Divertimento.mp3). Performed by players from their homes in New Haven CT, Boston MA, and Bloomington IN.
 
 
