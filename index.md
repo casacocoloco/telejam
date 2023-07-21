@@ -126,6 +126,8 @@ Telejam is designed to support all kinds of musical activity over long distances
 
 Telejam was created by Mark Goldstein, Michael McNabb, and Boris Smus. Listen to an interview with Mark Goldstein on [The Hacker Mind](https://thehackermind.com/ep-60-hacking-latency-in-live-music-online) podcast.
 
+If you have questions, write to markgoldstein144 (at) gmail (dot) com. 
+
 ## Sample recordings
 
 * Here is a session between LA (flute), Baltimore (bass and voice - two homes), and San Francisco (percussion). [Corcovado](/corc2.mp3)
